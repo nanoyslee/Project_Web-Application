@@ -1,0 +1,16 @@
+body.white {background-color:white; color:black; }
+body.black {background-color:black; color:white; }
+
+/*처음에 작성했던 CSS 코드이다.
+header {border-bottom:1px solid gray; padding:20px; }
+nav {border-right:1px solid gray; width:200px; float:left; height:600px; }
+nav ol {list-style:none; padding:0; }
+article {float:left; padding:20px; width:300px; }
+nav ol {list-style:none; }
+#control {float:right; }
+header img {float:right; height:100px; }
+이제 이걸 지우고 새롭게, bootstrap 을 이용해 아래에서 구현해 보자*/
+
+#logo {width:200px; }
+.container {padding-top:20px; }
+#control {margin-bottom:40px; }
